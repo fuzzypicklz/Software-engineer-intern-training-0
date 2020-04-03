@@ -35,9 +35,6 @@ For this assignment, you will be practicing the basic structure of the Node serv
 **[Part Four: Comments and Style](#part-four-comments-and-style)**<br>
 **[Part Five: Commit and Submit](#part-five-commit-and-submit)**<br>
 
-## Book
-This assignment is based off Chapter 9 and Chapter 10 in Java Software Structures
-
 ## Files to complete
 **index.js** - function completion - api route modification
 **module1.js** - to be implemented with one function `getName()`
