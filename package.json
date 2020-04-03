@@ -1,0 +1,14 @@
+{
+  "name": "hw0 - NPM starters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
