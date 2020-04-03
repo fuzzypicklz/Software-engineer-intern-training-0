@@ -9,7 +9,7 @@ var function1=null;
 /* TODO initialize the function 2 to appropriate elements */
 var function2=null;
 
-/* the Json that will be processed */
+/* the JSON that will be processed */
 const webJSON={
   arrays: [
       {
